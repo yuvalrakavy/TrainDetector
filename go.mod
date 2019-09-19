@@ -1,4 +1,4 @@
-module github/yuvalrakavy/TrainDetector
+module github.com/yuvalrakavy/TrainDetector
 
 go 1.13
 
