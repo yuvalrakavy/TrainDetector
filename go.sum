@@ -1,0 +1,8 @@
+github.com/yuvalrakavy/goPool v0.0.0-20190919112624-ae1bf5dbbdda h1:4Go8LLBn8bnMdM/HFKjF4mzd4gmBIMGMW4QbpPgd9sM=
+github.com/yuvalrakavy/goPool v0.0.0-20190919112624-ae1bf5dbbdda/go.mod h1:DdaPhGp263uL4cK0HXxoTstbB+iKlPw3pTSgsp5gTmA=
+github.com/yuvalrakavy/goRaspberryPi v0.0.0-20190919121210-4ed0d31c9127 h1:n8XWtPExpetf4bZcKNiK5nY8ffiNFU3yK/R/PhAi2O4=
+github.com/yuvalrakavy/goRaspberryPi v0.0.0-20190919121210-4ed0d31c9127/go.mod h1:ikcGS4LBx0rTS+q0z72qFNO9Rs8wLzVkMenM66RyL0Y=
+github.com/yuvalrakavy/goRaspberryPi v0.0.0-20190919124002-4b4719d9014b h1:IdF/GerD9fkCVsZinYLgtF0tPITJipBPBJplsTUmI38=
+github.com/yuvalrakavy/goRaspberryPi v0.0.0-20190919124002-4b4719d9014b/go.mod h1:WaWfPA1mLuCQG6jWbU7xJzdMTsdz7aw3osGzU7di32M=
+golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13 h1:/zi0zzlPHWXYXrO1LjNRByFu8sdGgCkj2JLDdBIB84k=
+golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
