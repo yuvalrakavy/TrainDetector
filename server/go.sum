@@ -1,0 +1,8 @@
+github.com/yuvalrakavy/TrainDetector v1.0.0 h1:UnfV44qq/gu2zPmacT1Cqt6zUlH14Eh8KZMb3nULz/Q=
+github.com/yuvalrakavy/goPool v0.0.0-20190919112624-ae1bf5dbbdda/go.mod h1:DdaPhGp263uL4cK0HXxoTstbB+iKlPw3pTSgsp5gTmA=
+github.com/yuvalrakavy/goPool v1.0.0 h1:RpMZkS8o0iwEWnieV7srJOhP+pYYk/hLlr+c9K+21YI=
+github.com/yuvalrakavy/goPool v1.0.0/go.mod h1:Upc+mW01XIiF5LWo6KBUn8IybaOAQI4ZoFomgU4PoBM=
+github.com/yuvalrakavy/goRaspberryPi v1.0.0 h1:w7oXTi+CSkOWhR3qdnxDKxLxyx9Czag/n9ogBp3vbJ0=
+github.com/yuvalrakavy/goRaspberryPi v1.0.0/go.mod h1:WaWfPA1mLuCQG6jWbU7xJzdMTsdz7aw3osGzU7di32M=
+golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13 h1:/zi0zzlPHWXYXrO1LjNRByFu8sdGgCkj2JLDdBIB84k=
+golang.org/x/sys v0.0.0-20190919044723-0c1ff786ef13/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
