@@ -142,7 +142,7 @@ func main() {
 
 	fmt.Println(len(sensors), "sensors have been initialized")
 
-	pool := goPool.MakeGoPool()
+	pool := goPool.Make()
 	//endPipe(dumpRangeMessages(sensors.GetRangeReadingChannel(p)))
 	endPipe(dumpIsCoveredMessage(getTransformRangeToIsCovered(sensors.GetRangeReadingChannel(pool))))
 	StartNetworkHandler(pool)
