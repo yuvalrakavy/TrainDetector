@@ -4,6 +4,8 @@ go 1.13
 
 replace github.com/yuvalrakavy/TrainDetectorCommon => ../TrainDetectorCommon
 
+replace github.com/yuvalrakavy/goRaspberryPi => ../lib/goRaspberryPi
+
 require (
 	github.com/stianeikeland/go-rpio v4.2.0+incompatible // indirect
 	github.com/stianeikeland/go-rpio/v4 v4.4.0
