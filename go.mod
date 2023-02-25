@@ -12,5 +12,5 @@ require (
 	github.com/yuvalrakavy/TrainDetectorCommon v0.0.0-20190922191303-cee2b3eae919
 	github.com/yuvalrakavy/goPool v1.0.0
 	github.com/yuvalrakavy/goRaspberryPi v1.0.1-0.20190923185026-bbf21c911540
-	golang.org/x/sys v0.0.0-20190922100055-0a153f010e69 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
